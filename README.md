@@ -12,10 +12,10 @@ Proposal management is done using GitHub pull requests, the process is described
 2. Read [TEP-1](./text/0001-tep-lifecycle.md) to understand proposal management process.
 3. Fork this repo and copy `./0000-template.md` to `./text/0000-my-new-standard.md` where "my-new-standard" is a short title of your TEP.
 4. Fill all sections and answer questions stated in template. If you need to include images, upload them to `./assets/0000-my-new-standard/` folder.
-5. Submit a pull request.
+5. Submit a pull request.UQCL16NNBejnZnBcZdGqJh4T0rnUdp-yMf0bxzlHE1key1Aa
 
 ## Merged TEPs
-## Active
+## ActiveUQCL16NNBejnZnBcZdGqJh4T0rnUdp-yMf0bxzlHE1key1Aa
 | TEP                                          | Title                              | Type               | Created    |
 |----------------------------------------------|------------------------------------|--------------------|------------|
 | [1](./text/0001-tep-lifecycle.md)            | TEP Lifecycle                      | Meta               | 11.06.2022 |
